@@ -10,86 +10,122 @@
 
 My route into technology is not conventional.
 
-I bring an international, customer-facing background shaped by experience in telecommunications and payments in Malta, including commercial exposure to Paysafe products.
+I bring an international, customer-facing background shaped by experience in telecommunications and payments in Malta, alongside the perspective that comes from working across languages, cultures and different customer environments.
 
-I work across three languages — **Spanish, English and French** — and I am building my next professional chapter around the industries transforming how people interact, transact and operate online.
+My professional experience has placed me close to something I find increasingly interesting: the point where people interact with complex digital systems.
 
-My interests sit at the intersection of:
+Payments.  
+Trust.  
+Risk.  
+Customer behaviour.  
+Fraud.  
+Digital platforms.
 
-**FinTech · Payments · iGaming · Digital Assets · Fraud & Risk · Customer Operations**
+I am now deliberately developing my understanding of the industries built around those interactions — particularly FinTech, iGaming, digital assets, online trading, fraud prevention, risk and technology-enabled customer operations.
+
+I am not presenting myself as a software engineer or technical specialist.
+
+This profile is a record of something different:
+
+**how I investigate, learn, structure information and think through unfamiliar problems.**
 
 ---
 
-## Perspective
+## Professional Lens
 
-Technology is rarely just about technology.
+My previous experience includes customer-facing work within telecommunications in Malta and experience selling Paysafe payment products.
 
-Behind every payment is a person.  
-Behind every transaction is a decision.  
-Behind every platform is a system of customers, incentives, rules and risk.
+That background gave me exposure to customers, commercial conversations, payments and technology-enabled services.
 
-I am interested in what happens at those intersections — particularly when money moves, trust is tested, behaviour changes or something goes wrong.
+I am particularly interested in roles where human judgement remains valuable inside increasingly sophisticated digital businesses.
+
+Areas I am exploring include:
+
+**FinTech** · **Payments** · **iGaming** · **Digital Assets** · **Online Trading** · **Fraud & Risk** · **Cybersecurity Awareness** · **Customer Operations**
 
 ---
 
-## The Casebook
+## Research Agenda
 
-I use this GitHub as an independent portfolio of research, practical investigations and case-based learning.
+*Questions currently shaping this portfolio.*
 
-Rather than presenting expertise I have not yet earned, I document the process of developing it.
+I do not use GitHub to claim expertise I have not earned.
 
-### 001 / The Anatomy of Trust
-How does a stranger convince someone to send them money?
+I use it to turn curiosity into structured work.
 
-`Crypto · Fraud · Social Engineering · Risk`
+The questions below are starting points for research, case studies and practical exercises that I will develop and publish over time.
 
-### 002 / The Transaction
+### 01 / Trust
+
+How does trust become a vulnerability in digital financial environments?
+
+`Fraud · Digital Assets · Social Engineering · Human Behaviour`
+
+### 02 / Transactions
+
 When does ordinary financial behaviour become an anomaly worth investigating?
 
-`Payments · Fraud · Pattern Recognition`
+`Payments · Fraud · Risk`
 
-### 003 / Not My Payment
-A customer disputes a transaction. What should happen next?
+### 03 / The Digital Customer Journey
 
-`Customer Operations · Payments · Fraud`
+What happens between registration, verification, payment, support and withdrawal on a digital platform?
 
-### 004 / Between Deposit and Withdrawal
-What happens across the customer journey inside an iGaming platform?
+`FinTech · iGaming · Customer Operations`
 
-`iGaming · Payments · Customer Experience`
+### 04 / Signals
 
-### 005 / Signals
-When does customer behaviour become a risk signal?
+How can organisations distinguish customer friction, unusual behaviour and genuine risk?
 
-`iGaming · Responsible Gaming · Risk`
+`Fraud · Risk · Responsible Gaming`
 
-### 006 / The Human Attack Surface
-Why attack technology when manipulating the person using it may be easier?
+### 05 / Human Vulnerability
 
-`Cybersecurity · Fraud · Human Behaviour`
+Why can sophisticated digital systems remain vulnerable to simple human manipulation?
 
----
+`Cybersecurity · Social Engineering · Human Behaviour`
 
-## Method
+### 06 / Resolution
 
-**Question → Research → Analysis → Decision → Reflection**
+What does good judgement look like when a customer, a payment and an uncertain set of facts collide?
 
-I am interested not only in learning how digital systems work, but in developing the judgement required to reason about the problems around them.
+`Customer Operations · Payments · Decision-Making`
 
 ---
 
-## Professional Direction
+## From Questions to Evidence
 
-I am particularly interested in international and remote opportunities across:
+The subjects above are **research directions, not completed projects**.
 
-**FinTech & Payments**  
-**iGaming**  
-**Fraud & Risk Operations**  
-**Customer Success & Customer Operations**  
-**Digital Assets & Crypto**  
-**Trust & Safety**  
-**Trading & Financial Platforms**  
-**Technology Operations**
+As I investigate them, I will turn selected questions into documented case studies.
+
+Each completed piece should demonstrate something concrete:
+
+- the question I started with
+- the information I examined
+- how I separated facts from assumptions
+- the reasoning I used
+- what I concluded
+- what remained uncertain
+- what I learned
+
+Completed investigations will be moved into a separate **Selected Work** section.
+
+---
+
+## Working Principles
+
+> I will not claim competence I cannot demonstrate.
+
+If a concept appears here, I want to understand it.
+
+If I use a tool, I want to understand its purpose.
+
+If I analyse a problem, I want to be able to explain and defend my reasoning.
+
+This portfolio is intended to document progression rather than manufacture expertise.
+
+**Curiosity → Investigation → Evidence → Better judgement**
 
 ---
 
@@ -99,18 +135,14 @@ I am particularly interested in international and remote opportunities across:
 
 ---
 
-## Principle
+## Current Direction
 
-> I will not claim competence I cannot demonstrate.
+I am interested in international and remote opportunities across technology-led industries, particularly where customer understanding, communication, payments, risk awareness and sound judgement intersect.
 
-If a concept appears here, I want to understand it.  
-If I use a tool, I want to know why.  
-If I analyse a problem, I want to be able to defend my reasoning.
+My objective is not to look technical for the sake of it.
 
-This portfolio is deliberately a work in progress.
-
-It documents not where I started, but where I am going.
+It is to become increasingly useful in complex digital environments.
 
 ---
 
-*No traditional route into technology. Just a deliberate one.*
+*This portfolio is a work in progress by design.*
